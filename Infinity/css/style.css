@@ -36,7 +36,7 @@ body
 	padding: 0px;
 }
 body {
-	background: #8051B0;
+	background: #FFF;
 	font-weight: normal;
 	position: relative;
 	font-size: 14px;
@@ -46,7 +46,7 @@ body {
       WRAPPER
 ========================================================*/
 #wrap {
-    background: #8051B0;
+    background: #FFF;
 	position: relative;
 	width: 100%;
 	overflow: hidden;
